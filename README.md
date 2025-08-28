@@ -15,3 +15,7 @@
 ### Alumno: Emanuel Conte Garcia
 
 ## Año 2025
+
+## Tecnologías Web Guia de Ngnix by Emanuel conte is marked CC0 1.0
+
+## Licencia No Copyright: https://creativecommons.org/publicdomain/zero/1.0/
